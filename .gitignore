@@ -55,3 +55,16 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#target folder
+target/
+*.log
+/bin/
+out/
+
+.checkstyle
+
+.pmd
+
+/bin
+/target
