@@ -1,2 +1,2 @@
 # my-easy-job
-My Easy Job Angular application, TFM UOC
+My Easy Job Java service, TFM UOC
